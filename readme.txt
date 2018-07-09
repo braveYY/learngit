@@ -7,3 +7,4 @@ Hello World！
 hi
 lichunyang
 I love CHINA
+I am from NingXia.
