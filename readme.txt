@@ -8,3 +8,4 @@ hi
 lichunyang
 I love CHINA
 I am from NingXia.
+I do not like apple.
