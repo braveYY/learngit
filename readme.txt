@@ -6,3 +6,4 @@ I want to know if there is any difference.
 Hello World！
 hi
 lichunyang
+I love CHINA
